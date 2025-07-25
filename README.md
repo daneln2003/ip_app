@@ -183,4 +183,4 @@ push to main
 - The output of my app is "My public IP is: 13.60.9.188" - the external ip of the Kubernetes cluster node the pod is running on.
 - I used Service type LoadBalancer to check the validity of the app, but there is a ready helm chart to create an Ingress, all you need to do is to enable in values and set the hostname. 
 ---
----
+
